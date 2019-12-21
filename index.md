@@ -6,4 +6,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dictum arcu susci
 
 Curabitur pulvinar augue nec purus vehicula, eu convallis tortor blandit. Aenean cursus a nulla nec ullamcorper. Ut imperdiet erat ut libero vulputate pretium. Sed pulvinar elementum nunc, lacinia dictum nibh pretium sed. Duis facilisis nec.
 
-[Check out my diary!](diary-061.md)
+[Check out my diary!](cs-ej4101-fall-2019-061-starter/diary-061.md)
